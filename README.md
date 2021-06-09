@@ -1,4 +1,4 @@
-# Perpustakaan
+# E-PERPUS
  Applikasi perpustakaan sederhana ini dibuat menggunakan Template admin dari AdminLTE.io dan Menggunakan bahasa pemograman PHP MySQLI. <br> <br>
  Applikasi ini bebas untuk di kembangkan lagi atau untuk bahan pembelajaran kalian bagi yang mau membuat applikasi perpustakaan, mungkin bisa mengambil contoh dari applikasi ini :)
 
